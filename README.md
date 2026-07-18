@@ -6,10 +6,10 @@ Before using, please add your hugging face key in the .env file.
 
 --> How to use
 
->>> Open the Project in VS Code or any other code editor
->>> Open Terminal
->>> Type - "cd vexreach"
->>>Then type, npm run dev
->>Local host will open type it in your web-browser to open the web-app.
+1.Open the Project in VS Code or any other code editor
+2. Open Terminal
+3. Type - "cd vexreach"
+4. Then type, npm run dev
+5. Local host will open type it in your web-browser to open the web-app.
 
 
