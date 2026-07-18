@@ -1,0 +1,26 @@
+{
+  "id": "osdrr9a-6Ng1vN-a1d31e2c8fcfc76b",
+  "object": "chat.completion",
+  "created": 1784394815,
+  "model": "Qwen/Qwen2.5-7B-Instruct-Turbo",
+  "prompt": [],
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "seed": 11158182637737353000,
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"sponsors\": [\n    {\n      \"name\": \"Tech Innovators\",\n      \"summary\": \"A leading tech company focused on innovation.\",\n      \"website\": \"https://techinnovators.com\",\n      \"contact\": \"info@techinnovators.com\",\n      \"why\": \"Supporting emerging technologies and startups.\",\n      \"deadlineDays\": 30\n    },\n    {\n      \"name\": \"Green Planet\",\n      \"summary\": \"A global environmental organization.\",\n      \"website\": \"https://greenplanet.org\",\n      \"contact\": \"donate@greenplanet.org\",\n      \"why\": \"Promoting sustainable practices and green initiatives.\",\n      \"deadlineDays\": 20\n    },\n    {\n      \"name\": \"Health First\",\n      \"summary\": \"A health and wellness company.\",\n      \"website\": \"https://healthfirst.com\",\n      \"contact\": \"support@healthfirst.com\",\n      \"why\": \"Improving public health and well-being.\",\n      \"deadlineDays\": 15\n    }\n  ]\n}",
+        "tool_calls": []
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 46,
+    "completion_tokens": 218,
+    "total_tokens": 264,
+    "cached_tokens": 0
+  }
+}
